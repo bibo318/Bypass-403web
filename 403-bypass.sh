@@ -49,7 +49,7 @@ function usage(){
 		printf "\t${yellow}YELLOW${end}\t:\t${yellow}3xx Status Code${end}\n">&2
 		printf "\t${red}RED${end}\t:\t${red}4xx Status Code${end}\n">&2
 		printf "\t${ltcyan}BLUE${end}\t:\t${ltcyan}5xx Status Code${end}\n">&2
-		printf "-THANK KIU-\n">&2
+		printf "THANK KIU\n">&2
 }
 function Header_Bypass(){
 	echo -e ${blue}"----------------------"${end}
